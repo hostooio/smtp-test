@@ -1,0 +1,12 @@
+{
+    "name": "hostooio/smtp-test",
+    "authors": [
+        {
+            "name": "Hostoo",
+            "email": "hostoo@hostoo.io"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
